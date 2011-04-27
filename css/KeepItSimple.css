@@ -35,7 +35,9 @@ a:hover.more-link {
 }
 /* Headers */
 h1, h2, h3, h4 {
-	font: bold 1em/1.5em Georgia, 'Times New Roman', Times, serif;
+/*	font: bold 1em/1.5em 'Trebuchet MS', 'Times New Roman', Times, serif; */
+		font: bold 1em/1.5em Verdana, 'Times New Roman', Times, serif;
+
 	color: #444;
 	padding: 10px 15px 7px 15px;	 
 }
@@ -99,7 +101,7 @@ blockquote {
 	font-size: 17px;
 	line-height: 1.5em;
 	font-style: italic;
-	font-family: Georgia, 'Times New Roman', Times, Serif;	
+	font-family: 'Trebuchet MS', 'Times New Roman', Times, Serif;	
 	color: #555;	
 }
 strong { font-weight: bold; }
@@ -205,7 +207,7 @@ input.button {
 #header h1#logo-text a {
 	position: absolute; 
 	margin: 0; padding: 0 5px 0 0;
-	font: normal 75px Georgia, 'Times New Roman', Times, serif;
+	font: normal 75px 'Trebuchet MS', 'Times New Roman', Times, serif;
 	letter-spacing: -6px;
 	color: #93b876;
 	text-decoration: none;
@@ -217,7 +219,7 @@ input.button {
 #header p#intro {
 	position: absolute;
 	margin: 0; padding: 0;
-	font-family: Georgia, 'Times New Roman', Times, Serif;
+	font-family: 'Trebuchet MS', 'Times New Roman', Times, Serif;
 	font-weight: normal;
 	font-size: 17px;
 	line-height: 1.6em;
@@ -292,7 +294,7 @@ input.button {
 	margin: 0;
 	padding: 0 15px 0 5px;
 	color: #666666;
-	font: bold 14px/40px 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-Serif;
+	font: bold 14px/40px 'Lucida Grande', 'Helvetica Neue', Arial, Sans-Serif;
 	text-transform: uppercase;	
 }
 #header #nav ul li a:hover, 
@@ -311,7 +313,7 @@ input.button {
 
 /* main column */
 #main h2 {
-	font: normal 3.7em Georgia, 'Times New Roman', Times, Serif;
+	font: normal 3.7em 'Trebuchet MS', 'Times New Roman', Times, Serif;
 	color: #444;
 	letter-spacing: -2.2px;	
 	margin-left: 5px;	
@@ -327,7 +329,7 @@ input.button {
 /* left columns */
 #left-columns h3 {
 	color: #444;
-	font: normal 2em Georgia, 'Times New Roman', Times, Serif;
+	font: normal 2em 'Trebuchet MS', 'Times New Roman', Times, Serif;
 	letter-spacing: -0.5px;
 	padding: 5px 10px;
 	margin: 12px 0 5px 0;
@@ -350,7 +352,7 @@ input.button {
 }
 .sidemenu ul li a:link,
 .sidemenu ul li a:visited {
-	font-family: Georgia, 'Times New Roman', Times, Serif;
+	font-family: 'Trebuchet MS', 'Times New Roman', Times, Serif;
 	background-image: none;	
 	background-color: transparent;
 	border: none;
@@ -359,7 +361,7 @@ input.button {
 }
 .sidemenu ul li a span {
 	color: #9F9F9F;	
-	font-family: Georgia, 'Times New Roman', Times, Serif;
+	font-family: 'Trebuchet MS', 'Times New Roman', Times, Serif;
 	font-style: normal;
 	font-size: 1em;
 }
@@ -397,7 +399,7 @@ input.button {
 }
 #footer-wrapper h3 {
 	color: #444;
-	font: normal 1.8em Georgia, 'Times New Roman', Times, Serif;
+	font: normal 1.8em 'Trebuchet MS', 'Times New Roman', Times, Serif;
 	text-transform: none;
 	letter-spacing: -0.5px;	
 }
@@ -434,7 +436,7 @@ input.button {
 #footer-wrapper ul.footer-list li a span {
 	font-style: italic;
 	font-weight: normal;
-	font-family: Georgia, 'Times New Roman', Times, Serif;
+	font-family: 'Trebuchet MS', 'Times New Roman', Times, Serif;
 }
 #footer-wrapper ul.footer-list li a:hover,
 #footer-wrapper ul.footer-list li a:hover span {
